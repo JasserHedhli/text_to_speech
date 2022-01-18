@@ -1,0 +1,2 @@
+A voicebot is a conversational robot able to speak with a caller.
+In other words, a voicebot is a virtual agent capable of understanding, interpreting and then analyzing requests expressed by an individual and responding to them vocally with everyday words, which is called "natural language".
