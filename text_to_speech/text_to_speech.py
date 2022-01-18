@@ -1,7 +1,7 @@
 from gtts import gTTS
 import os
 
-file = open('C:/Users/Ghassen/Desktop/chat/voicebot/text_to_speech/test.txt', 'r')
+file = open('test.txt', 'r')
 myText = file.read().replace("\n", " ")
 
 
